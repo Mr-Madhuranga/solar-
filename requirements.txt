@@ -3,5 +3,4 @@ joblib
 pandas
 requests
 plotly
-pyttsx3
-scikit-learn==1.2.2
+scikit-learn
